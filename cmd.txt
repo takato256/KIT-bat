@@ -1,0 +1,8 @@
+echo @echo off > kit.bat
+echo color E >> kit.bat
+echo echo K   K    IIIIIII    TTTTTTT >> kit.bat
+echo echo K  K        I          T >> kit.bat
+echo echo KKK         I          T >> kit.bat
+echo echo K  K        I          T >> kit.bat
+echo echo K   K    IIIIIII       T >> kit.bat
+echo pause >> kit.bat
